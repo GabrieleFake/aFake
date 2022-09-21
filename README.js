@@ -1,4 +1,3 @@
-```js
 import Profile from "GabrieleFake"
 
 class Bio extends Profile {
@@ -15,4 +14,3 @@ class Skills extends Profile {
   iot              = ["Raspberry Pi", "Arduino"];
   editors          = ["Visual Studio Code"];
 }
-```
